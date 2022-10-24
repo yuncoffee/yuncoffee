@@ -1,7 +1,10 @@
 ## I'm touchpoint maker 😎
 
-I'm learning design & web for interface. <br/>
-I love making interactive interface!
+UI를 위한 디자인과 웹 공부하고 있습니다. <br/>
+인터랙티브한 UI를 만드는 걸 좋아해요!
+
+I'm learning design & web for user interface. <br/>
+I love making interactive user interface!
 
 Skill
 -------
